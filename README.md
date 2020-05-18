@@ -1,7 +1,7 @@
 # Docker-Practice 입니답
 ### Installation
 <pre>
-cd /home
+cd /home/ubuntu
 git clone https://github.com/mijungkwak/Docker-Practice
 cd Docker-Practice
 </pre>
