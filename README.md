@@ -5,7 +5,7 @@ cd /home/ubuntu
 git clone https://github.com/mijungkwak/Docker-Practice
 cd Docker-Practice
 </pre>
-### Run
+### Run (DockerHub image pull)
 <pre>
 docker login
 docker pull mijungkwak/docker-practice
